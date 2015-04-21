@@ -1,0 +1,2 @@
+# asataka
+just another repository
